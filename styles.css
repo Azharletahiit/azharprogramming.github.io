@@ -462,7 +462,7 @@
 
     .timeline li .timeline-panel {
       width: 60%;
-      transform: translateX(-5px);
+      transform: translateX(-1px);
       }
     
       .timeline li .timeline-panel::before {
