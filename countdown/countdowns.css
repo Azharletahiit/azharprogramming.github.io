@@ -1,6 +1,8 @@
 .simply-countdown {
 	overflow:hidden;
 	display:table;
+	 width: -1px;
+	height: 10px;
 
 	
 }
