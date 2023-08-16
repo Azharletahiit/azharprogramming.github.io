@@ -225,7 +225,7 @@
 #simplyc{
         background-image: url(img/hitam.jpg);
         background-size: cover;
-        min-height: -2vh; 
+        min-height: 100vh; 
         margin-top: 2rem ;
         padding-top: 10%;
         padding-bottom: 5rem;
