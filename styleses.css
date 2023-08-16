@@ -86,7 +86,7 @@
     .home {
         background-image: url(img/flower.jpg);
         background-size: cover;
-        min-height: 100vh; 
+        min-height: 10vh; 
         margin-top: 6rem ;
         padding-top: 15%;
         padding-bottom: 5rem;
